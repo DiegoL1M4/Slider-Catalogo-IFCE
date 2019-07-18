@@ -1,16 +1,7 @@
-Radial SVG Slider
-=========
+#Catálogo de Cursos IFCE
 
-A simple, responsive slider, with a radial transition effect powered by SVG clipPath and mask elements.
+Slider de cursos do Instituto Federal do Ceará Campus Maracanaú
+
+###Utiliza:
 
 [Article on CodyHouse](https://codyhouse.co/gem/radial-svg-slider/)
-
-[Demo](https://codyhouse.co/demo/radial-svg-slider/index.html)
-
-Resources:
-
--[Snap.svg](http://snapsvg.io/) to animate the SVG elements.
-
--Images from [Unsplash](https://unsplash.com/)
- 
-[Terms](https://codyhouse.co/terms/)
